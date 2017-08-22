@@ -15,7 +15,7 @@ Supported Encrypted Readers:
 Steps to integrate:
 ===================
 
-1.  Download the SDK from GIT
+1.  Download the SDK from GITHUB
 
 2.  Copy the SDK folder into project folder
 
